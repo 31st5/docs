@@ -1,14 +1,1 @@
----
-title: Developers
-intro: 'Go deeper with {% data variables.product.prodname_dotcom %} by integrating with our APIs, customizing your {% data variables.product.prodname_dotcom %} workflow, and building and sharing apps with the community.'
-versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
-children:
-  - /overview
-  - /webhooks-and-events
-  - /apps
-  - /github-marketplace
----
-
+https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fsettings%2Fsecurity-log&amp;data=04%7C01%7Cabedallah.banihamad%40safwabank.com%7C5b4119e87f134ab4d96808d922452f55%7Ce56ae5c68f814a22befd27b2b747c45d%7C1%7C0%7C637578502806840387%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=tEWo6oiiDOkyAVel9D1ha8fQBBA6DhJEv7HY9bEOffI%3D&amp;reserved=0
